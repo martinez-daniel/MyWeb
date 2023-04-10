@@ -1,0 +1,28 @@
+2023-04-10 15:48:25.469 [info] 
+
+
+
+
+2023-04-10 15:48:25.701 [info] Extension host agent started.
+2023-04-10 15:48:27.718 [info] [127.0.0.1][e43908b6][ManagementConnection] New connection established.
+2023-04-10 15:48:27.740 [info] [127.0.0.1][df6e99e2][ExtensionHostConnection] New connection established.
+2023-04-10 15:48:27.763 [info] [127.0.0.1][df6e99e2][ExtensionHostConnection] <293> Launched Extension Host Process.
+2023-04-10 15:48:31.638 [warning] No ptyHost heartbeat after 6 seconds
+2023-04-10 15:54:43.418 [info] Getting Manifest... ritwickdey.liveserver
+2023-04-10 15:54:46.212 [info] Installing extension: ritwickdey.liveserver
+2023-04-10 15:55:21.266 [info] Extension signature is verified: ritwickdey.liveserver
+2023-04-10 15:56:32.645 [info] Extracted extension to /home/daniel/.vscode-server/extensions/.82470631-f7a6-4231-a9c7-85a146dab1da: ritwickdey.liveserver
+2023-04-10 15:56:32.696 [info] Renamed to /home/daniel/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2023-04-10 15:56:32.733 [info] Extracting extension completed. ritwickdey.liveserver
+2023-04-10 15:56:32.782 [info] Extension installed successfully: ritwickdey.liveserver
+2023-04-10 16:05:02.416 [info] Getting Manifest... negokaz.live-server-preview
+2023-04-10 16:05:04.748 [info] Installing extension: negokaz.live-server-preview
+2023-04-10 16:05:42.748 [info] Extension signature is verified: negokaz.live-server-preview
+2023-04-10 16:06:14.826 [info] Extracted extension to /home/daniel/.vscode-server/extensions/.76ad204c-6196-41a5-bfe6-0d882c8122cd: negokaz.live-server-preview
+2023-04-10 16:06:14.896 [info] Renamed to /home/daniel/.vscode-server/extensions/negokaz.live-server-preview-0.1.4
+2023-04-10 16:06:14.928 [info] Extracting extension completed. negokaz.live-server-preview
+2023-04-10 16:06:15.111 [info] Extension installed successfully: negokaz.live-server-preview
+2023-04-10 16:49:10.745 [warning] No ptyHost heartbeat after 6 seconds
+2023-04-10 17:04:46.803 [warning] No ptyHost heartbeat after 6 seconds
+2023-04-10 17:04:54.959 [error] No ptyHost heartbeat after 12 seconds
+2023-04-10 17:15:22.144 [warning] No ptyHost heartbeat after 6 seconds
