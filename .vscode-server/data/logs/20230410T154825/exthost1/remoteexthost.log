@@ -20,3 +20,4 @@
 2023-04-10 16:07:23.718 [info] ExtensionService#_doActivateExtension negokaz.live-server-preview, startup: false, activationEvent: 'onCommand:extension.liveServerPreview.open'
 2023-04-10 18:05:53.413 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8759
 2023-04-10 18:06:01.317 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8759
+2023-04-10 18:23:47.659 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8762
